@@ -1,0 +1,51 @@
+package aula1Dio.operadoresAritimeticos;
+
+public class OperadoresAritimeticos {
+
+	public static void main(String[] args) {
+		
+		System.out.println("PrePos");
+		prePos();
+		System.out.println("Aritiméticos");
+		aritimeticos();
+		System.out.println("Atribuição");
+		atribuicao();
+		System.out.println("Procedência");
+		procedencia();
+	
+	}
+	
+	private static void prePos() {
+		
+		int k = 10;
+		
+		int j = k++;
+		int i = --k;
+		int x = k;
+		
+		System.out.println("j:" + j);
+		System.out.println("i:" + i);
+		System.out.println("x:" + x);
+	}
+	
+	private static void aritimeticos() {
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+package aula1Dio.tiposDeDados;
+
+public class TipoDeDados {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

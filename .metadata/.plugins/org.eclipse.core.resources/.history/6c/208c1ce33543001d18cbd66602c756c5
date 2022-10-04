@@ -1,0 +1,10 @@
+package aula1Dio.operadoresAritimeticos;
+
+public class OperadoresAritimeticos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
